@@ -1,0 +1,241 @@
+{
+  "version": "V10.3 Scenario Engine",
+  "scenario_name": "M Base",
+  "client": "Mercado Livre",
+  "project": "Arena Pacaembu",
+  "asking_price": 11.0,
+  "updated_at": "2026-04-28T17:05:44",
+  "client_input": [
+    {
+      "Asset": "Naming Rights Arena",
+      "Tipo Visible Cliente": "Naming Rights Venue / Arena",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Naming Rights Pitch / Field",
+      "Tipo Visible Cliente": "LED / Signage Premium",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Naming Rights Events Center",
+      "Tipo Visible Cliente": "Naming Rights + Main Sponsor",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "PR Mentions",
+      "Tipo Visible Cliente": "PR / Comunicación",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Branding complejo / signage",
+      "Tipo Visible Cliente": "Static Signage",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Bicicletero branded",
+      "Tipo Visible Cliente": "Signage / Visibilidad",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Exclusividad categoría",
+      "Tipo Visible Cliente": "Exclusividad",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Mercado Pago método oficial",
+      "Tipo Visible Cliente": "Payment Official Partner",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Mercado Play Content Studio",
+      "Tipo Visible Cliente": "Contenido",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Preventa MELI+ / MPago",
+      "Tipo Visible Cliente": "Ecommerce Integration",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "OOH media inventory",
+      "Tipo Visible Cliente": "Signage / Visibilidad",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "2 Camarotes",
+      "Tipo Visible Cliente": "VIP Experiences",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Parking credentials",
+      "Tipo Visible Cliente": "Experiencias",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "50 tickets mensuales",
+      "Tipo Visible Cliente": "Ticketing / Entradas",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "100 tickets extra/año",
+      "Tipo Visible Cliente": "Ticketing / Entradas",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Crédito anual locación",
+      "Tipo Visible Cliente": "Contenido",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Derechos filmación / campañas",
+      "Tipo Visible Cliente": "Contenido",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Colab productos",
+      "Tipo Visible Cliente": "Sampling / Stands",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Tour guiado",
+      "Tipo Visible Cliente": "Experiencias",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Acción comunidad / instituto",
+      "Tipo Visible Cliente": "Experiencias",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    },
+    {
+      "Asset": "Proyecto árboles",
+      "Tipo Visible Cliente": "Experiencias",
+      "País": "BR",
+      "Marca Interesada": "Mercado Livre",
+      "Masividad": "Medio",
+      "Construcción de Marca": "Medio",
+      "Potencial de Negocio": "Medio",
+      "Valor Agregado": "Medio",
+      "Uso Esperado": "Medio"
+    }
+  ]
+}
